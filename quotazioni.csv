@@ -1,0 +1,521 @@
+role;name;team
+A;CRISTIANO RONALDO;Juventus
+A;QUAGLIARELLA;Sampdoria
+A;IMMOBILE;Lazio
+A;ZAPATA D;Atalanta
+A;ICARDI;Inter
+A;MERTENS;Napoli
+A;MILIK;Napoli
+A;PIATEK;Milan
+A;INSIGNE;Napoli
+A;BELOTTI;Torino
+C;CHIESA;Fiorentina
+A;DYBALA;Juventus
+A;DZEKO;Roma
+A;MURIEL;Fiorentina
+C;PERISIC;Inter
+A;GOMEZ A;Atalanta
+A;MANDZUKIC;Juventus
+A;IAGO FALQUE;Torino
+C;MILINKOVIC-SAVIC;Lazio
+A;SUSO;Milan
+C;ILICIC;Atalanta
+C;NAINGGOLAN;Inter
+C;DE PAUL;Udinese
+A;CAPUTO;Empoli
+A;SIMEONE;Fiorentina
+A;CALLEJON;Napoli
+A;UNDER;Roma
+A;GABBIADINI;Sampdoria
+C;PJANIC;Juventus
+C;LUIS ALBERTO;Lazio
+A;PAVOLETTI;Cagliari
+A;INGLESE;Parma
+A;DEFREL;Sampdoria
+A;KEITA B;Inter
+D;KOLAROV;Roma
+C;CRISTANTE;Roma
+P;SZCZESNY;Juventus
+C;FREULER;Atalanta
+C;VERETOUT;Fiorentina
+C;DOUGLAS COSTA;Juventus
+C;BONAVENTURA;Milan
+A;EL SHAARAWY;Roma
+A;BERARDI;Sassuolo
+A;ANTENUCCI;SPAL
+P;HANDANOVIC;Inter
+C;MATUIDI;Juventus
+C;ALLAN;Napoli
+C;PASTORE;Roma
+A;BABACAR;Sassuolo
+A;PETAGNA;SPAL
+A;GERVINHO;Parma
+P;DONNARUMMA G;Milan
+D;SKRINIAR;Inter
+D;ALEX SANDRO;Juventus
+D;KOULIBALY;Napoli
+C;JOAO PEDRO;Cagliari
+C;BENASSI;Fiorentina
+C;PAROLO;Lazio
+C;ZIELINSKI;Napoli
+C;RAMIREZ;Sampdoria
+C;CORREA;Lazio
+A;CUTRONE;Milan
+A;LASAGNA;Udinese
+A;ZAZA;Torino
+D;HATEBOER;Atalanta
+D;DE VRIJ;Inter
+D;ACERBI;Lazio
+D;N'KOULOU;Torino
+C;BERNARDESCHI;Juventus
+C;CAN;Juventus
+C;CUADRADO;Juventus
+C;CALHANOGLU;Milan
+C;RUIZ;Napoli
+C;VERDI;Napoli
+C;LAZZARI M;SPAL
+C;PAQUETA';Milan
+A;SANTANDER;Bologna
+A;POLITANO;Inter
+A;KLUIVERT;Roma
+P;SIRIGU;Torino
+D;CANCELO;Juventus
+D;CHIELLINI;Juventus
+D;FLORENZI;Roma
+C;BARELLA;Cagliari
+C;BIRSA;Cagliari
+C;BROZOVIC;Inter
+C;KHEDIRA;Juventus
+C;BASELLI;Torino
+A;STEPINSKI;Chievo
+A;CIANO;Frosinone
+A;MARTINEZ L;Inter
+A;SCHICK;Roma
+A;CASTILLEJO;Milan
+A;SANABRIA;Genoa
+P;STRAKOSHA;Lazio
+D;MANCINI G;Atalanta
+D;TOLOI;Atalanta
+D;BONUCCI;Juventus
+D;IZZO;Torino
+C;GIACCHERINI;Chievo
+C;KRUNIC;Empoli
+C;SAPONARA;Sampdoria
+C;KESSIE';Milan
+C;PELLEGRINI LO;Roma
+C;DUNCAN;Sassuolo
+A;KOUAME';Genoa
+A;CAPRARI;Sampdoria
+A;DI FRANCESCO F;Sassuolo
+P;CRAGNO;Cagliari
+P;LAFONT;Fiorentina
+P;MERET;Napoli
+P;OLSEN;Roma
+P;CONSIGLI;Sassuolo
+D;PEZZELLA GER;Fiorentina
+D;MANOLAS;Roma
+D;ANSALDI;Torino
+D;DE SILVESTRI;Torino
+D;VRSALJKO;Inter
+C;PASALIC;Atalanta
+C;LAZOVIC;Genoa
+C;LULIC;Lazio
+C;HAMSIK;Napoli
+C;ZANIOLO;Roma
+C;KURTIC;SPAL
+A;PALACIO;Bologna
+A;FARIAS;Empoli
+A;LA GUMINA;Empoli
+A;PJACA;Fiorentina
+A;PUSSETTO;Udinese
+A;MIRALLAS;Fiorentina
+A;OKAKA;Udinese
+P;SKORUPSKI;Bologna
+P;SORRENTINO;Chievo
+P;AUDERO;Sampdoria
+D;GOSENS;Atalanta
+D;DI LORENZO;Empoli
+D;ROMAGNOLI A;Milan
+D;ALBIOL;Napoli
+D;BRUNO ALVES;Parma
+D;FAZIO;Roma
+D;LIROLA;Sassuolo
+D;STRYGER LARSEN;Udinese
+C;POLI;Bologna
+C;CASTRO;Cagliari
+C;ROMULO;Lazio
+C;PRAET;Sampdoria
+C;RINCON;Torino
+C;NZONZI;Roma
+C;KUCKA;Parma
+A;SANSONE N;Bologna
+P;SEPE;Parma
+P;VIVIANO;SPAL
+D;PALOMINO;Atalanta
+D;SRNA;Cagliari
+D;BIRAGHI;Fiorentina
+D;CRISCITO;Genoa
+D;ASAMOAH;Inter
+D;RODRIGUEZ R;Milan
+D;TONELLI;Sampdoria
+D;FERRARI G;Sassuolo
+D;DANILO;Bologna
+C;DE ROON;Atalanta
+C;IONITA;Cagliari
+C;GERSON;Fiorentina
+C;CANDREVA;Inter
+C;LUCAS LEIVA;Lazio
+C;LOCATELLI M;Sassuolo
+C;PEROTTI;Roma
+C;LINETTY;Sampdoria
+C;MEITE';Torino
+C;FOFANA;Udinese
+C;BAKAYOKO;Milan
+C;EKDAL;Sampdoria
+A;FALCINELLI;Bologna
+A;PALOSCHI;SPAL
+A;OBERLIN;Empoli
+P;BERISHA E;Atalanta
+P;GOMIS A;SPAL
+P;MUSSO;Udinese
+D;CASTAGNE;Atalanta
+D;MASIELLO A;Atalanta
+D;PASQUAL;Empoli
+D;MILENKOVIC;Fiorentina
+D;D'AMBROSIO;Inter
+D;DE SCIGLIO;Juventus
+D;RADU;Lazio
+D;HYSAJ;Napoli
+D;MARIO RUI;Napoli
+D;GAGLIOLO;Parma
+D;MURRU;Sampdoria
+D;MALCUIT;Napoli
+D;TROOST-EKONG;Udinese
+C;BENNACER;Empoli
+C;CHIBSAH;Frosinone
+C;BENTANCUR;Juventus
+C;BARILLA';Parma
+C;DJURICIC;Sassuolo
+C;SENSI;Sassuolo
+C;FARES;SPAL
+C;BARAK;Udinese
+C;SORIANO;Bologna
+A;BARROW;Atalanta
+A;ORSOLINI;Bologna
+A;PELLISSIER;Chievo
+A;PINAMONTI;Frosinone
+A;SILIGARDI;Parma
+P;SPORTIELLO;Frosinone
+P;RADU I;Genoa
+D;ROMAGNA;Cagliari
+D;BIRASCHI;Genoa
+D;BASTONI;Parma
+D;RUGANI;Juventus
+D;LUIZ FELIPE;Lazio
+D;ABATE;Milan
+D;CALABRIA;Milan
+D;GHOULAM;Napoli
+D;JUAN JESUS;Roma
+D;ANDERSEN;Sampdoria
+D;COLLEY;Sampdoria
+D;SILVESTRE;Empoli
+D;MAGNANI;Sassuolo
+D;CIONEK;SPAL
+D;NUYTINCK;Udinese
+D;ZAMPANO;Frosinone
+D;AINA;Torino
+D;MARLON;Sassuolo
+D;DJIDJI;Torino
+C;DEPAOLI;Chievo
+C;BEGHETTO;Frosinone
+C;BESSA;Genoa
+C;HILJEMARK;Genoa
+C;BORJA VALERO;Inter
+C;VECINO;Inter
+C;BERISHA V;Lazio
+C;RIGONI L;Parma
+C;STULAC;Parma
+C;DE ROSSI;Roma
+C;JANKTO;Sampdoria
+C;BOURABIA;Sassuolo
+C;VALOTI;SPAL
+C;BEHRAMI;Udinese
+C;MANDRAGORA;Udinese
+C;FERNANDES;Fiorentina
+C;JOAO MARIO;Inter
+C;PIAZON;Chievo
+A;DJORDJEVIC;Chievo
+A;THEREAU;Cagliari
+A;CIOFANI D;Frosinone
+A;PANDEV;Genoa
+A;CAICEDO;Lazio
+A;OUNAS;Napoli
+A;CERAVOLO;Parma
+A;TEODORCZYK;Udinese
+D;DIJKS;Bologna
+D;HELANDER;Bologna
+D;MATTIELLO;Bologna
+D;MBAYE;Bologna
+D;CEPPITELLI;Cagliari
+D;BANI;Chievo
+D;VITOR HUGO;Fiorentina
+D;GOLDANIGA;Frosinone
+D;ROSSETTINI;Chievo
+D;CALDARA;Milan
+D;IACOPONI;Parma
+D;FELIPE;SPAL
+D;VICARI;SPAL
+D;BONIFAZI;SPAL
+D;KLAVAN;Cagliari
+D;ROMERO C;Genoa
+C;DZEMAILI;Bologna
+C;PULGAR;Bologna
+C;CIGARINI;Cagliari
+C;RADOVANOVIC;Genoa
+C;DABO;Fiorentina
+C;MAIELLO;Frosinone
+C;LAXALT;Milan
+C;SANDRO;Udinese
+C;GAGLIARDINI;Inter
+C;MARUSIC;Lazio
+C;BIGLIA;Milan
+C;BORINI;Milan
+C;DIAWARA;Napoli
+C;BOGA;Sassuolo
+C;MAGNANELLI;Sassuolo
+C;MISSIROLI;SPAL
+C;SCHIATTARELLA;SPAL
+C;ACQUAH;Empoli
+C;BERENGUER;Torino
+C;BRADARIC;Cagliari
+C;TRAORE' HJ;Empoli
+C;LERAGER;Genoa
+C;JANKOVIC;SPAL
+A;DESTRO;Bologna
+A;SAU;Sampdoria
+A;LAPADULA;Genoa
+A;MATRI;Sassuolo
+A;BRIGNOLA;Sassuolo
+P;OSPINA;Napoli
+D;CALABRESI;Bologna
+D;GONZALEZ G;Bologna
+D;CAPUANO;Frosinone
+D;FARAGO';Cagliari
+D;PISACANE;Cagliari
+D;CACCIATORE;Cagliari
+D;MAIETTA;Empoli
+D;CECCHERINI;Fiorentina
+D;ARIAUDO;Frosinone
+D;MIRANDA;Inter
+D;BASTOS;Lazio
+D;WALLACE;Lazio
+D;CONTI;Milan
+D;MUSACCHIO;Milan
+D;ZAPATA C;Milan
+D;MAKSIMOVIC;Napoli
+D;BERESZYNSKI;Sampdoria
+D;SAMIR;Udinese
+D;TER AVEST;Udinese
+D;BARBA;Chievo
+D;CEDRIC SOARES;Inter
+C;D'ALESSANDRO;Udinese
+C;KREJCI;Bologna
+C;NAGY;Bologna
+C;SVANBERG;Bologna
+C;PADOIN;Cagliari
+C;HETEMAJ;Chievo
+C;BIABIANY;Parma
+C;GRASSI;Parma
+C;BARRETO;Sampdoria
+C;CASSATA;Frosinone
+C;BADELJ;Lazio
+C;UCAN;Empoli
+C;MIGUEL VELOSO;Genoa
+C;DIOUSSE';Chievo
+A;MEGGIORINI;Chievo
+A;DIONISI;Frosinone
+A;FAVILLI;Genoa
+A;PARIGINI;Torino
+P;GOLLINI;Atalanta
+P;TERRACCIANO;Fiorentina
+P;MARCHETTI;Genoa
+P;KARNEZIS;Napoli
+D;DE MAIO;Udinese
+D;JAROSZYNSKI;Chievo
+D;TOMOVIC;Chievo
+D;LAURINI;Fiorentina
+D;GHIGLIONE;Frosinone
+D;ZUKANOVIC;Genoa
+D;LUKAKU J;Lazio
+D;ANTONELLI;Empoli
+D;DIMARCO;Parma
+D;GAZZOLA;Parma
+D;KARSDORP;Roma
+D;SANTON;Roma
+D;SALA;Sampdoria
+D;ROGERIO;Sassuolo
+D;MORETTI;Torino
+D;SCHELOTTO;Chievo
+C;PESSINA;Atalanta
+C;DEIOLA;Cagliari
+C;KIYINE;Chievo
+C;RIGONI N;Chievo
+C;MAZZITELLI;Genoa
+C;CATALDI;Lazio
+C;SCOZZARELLA;Parma
+C;VIVIANI;Frosinone
+C;VALDIFIORI;SPAL
+C;ROLON;Genoa
+C;OLIVA;Cagliari
+A;CERRI;Cagliari
+P;PROVEDEL;Empoli
+P;PERIN;Juventus
+P;ICHAZO;Torino
+D;DJIMSITI;Atalanta
+D;VESELI;Empoli
+D;HANCKO;Fiorentina
+D;MOLINARO;Frosinone
+D;GUNTER;Genoa
+D;PEREIRA P;Genoa
+D;DALBERT;Inter
+D;PATRIC;Lazio
+D;GOBBI;Parma
+D;MARCANO;Roma
+D;LEMOS;Sassuolo
+D;PELUSO;Sassuolo
+D;COSTA F;SPAL
+D;SALAMON;Frosinone
+D;LYANCO;Bologna
+D;OPOKU;Udinese
+D;DEMIRAL;Sassuolo
+C;VALZANIA;Frosinone
+C;DONSAH;Bologna
+C;NORGAARD;Fiorentina
+C;STURARO;Genoa
+C;BERTOLACCI;Milan
+C;LUKIC;Torino
+C;VIEIRA;Sampdoria
+C;MACHIN;Parma
+A;OKWONKWO;Bologna
+A;MCHEDLIDZE;Empoli
+A;KEAN;Juventus
+A;SPROCATI;Parma
+A;TROTTA;Frosinone
+A;DESPODOV;Cagliari
+A;SCHIAPPACASSE;Parma
+P;JANDREI;Genoa
+D;LYKOGIANNIS;Cagliari
+D;PAJAC;Empoli
+D;RASMUSSEN;Empoli
+D;KRAJNC;Frosinone
+D;RANOCCHIA;Inter
+D;SPINAZZOLA;Juventus
+D;CACERES;Juventus
+D;PELLEGRINI LU;Cagliari
+D;JUNIOR TAVARES;Sampdoria
+D;ADJAPONG;Sassuolo
+D;DELL'ORCO;Empoli
+D;DICKMANN;SPAL
+D;PEZZELLA GIU;Genoa
+D;DURMISI;Lazio
+D;ZEEGELAAR;Udinese
+D;IBANEZ;Atalanta
+C;KULUSEVSKI;Atalanta
+C;VIGNATO;Chievo
+C;BRIGHI;Empoli
+C;GORI;Frosinone
+C;CAPEZZI;Empoli
+C;SAMMARCO;Frosinone
+A;LERIS;Chievo
+A;FLOCCARI;SPAL
+A;EDERA;Bologna
+P;ROSSI F;Atalanta
+P;DA COSTA;Bologna
+P;SANTURRO;Bologna
+P;ARESTI;Cagliari
+P;RAFAEL;Cagliari
+P;FULIGNATI;SPAL
+P;SECULIN;Chievo
+P;DRAGOWSKI;Empoli
+P;BARDI;Frosinone
+P;VODISEK;Genoa
+P;BERNI;Inter
+P;PADELLI;Inter
+P;PINSOGLIO;Juventus
+P;GUERRIERI;Lazio
+P;PROTO;Lazio
+P;DONNARUMMA A;Milan
+P;PLIZZARI;Milan
+P;REINA;Milan
+P;FRATTALI;Parma
+P;FUZATO;Roma
+P;MIRANTE;Roma
+P;BELEC;Sampdoria
+P;RAFAEL CABRAL;Sampdoria
+P;PEGOLO;Sassuolo
+P;SATALINO;Sassuolo
+P;POLUZZI;SPAL
+P;ROSATI;Torino
+P;NICOLAS;Udinese
+P;SEMPER;Chievo
+P;IACOBUCCI;Frosinone
+P;GHIDOTTI;Fiorentina
+P;BAGHERIA;Parma
+P;PERISAN;Udinese
+P;PERUCCHINI;Empoli
+P;BRAZAO;Parma
+D;RECA;Atalanta
+D;VARNIER;Atalanta
+D;PAZ;Bologna
+D;ANDREOLLI;Chievo
+D;TANASIJEVIC;Chievo
+D;DIKS;Empoli
+D;BRIGHENTI;Frosinone
+D;LAKICEVIC;Genoa
+D;BARZAGLI;Juventus
+D;BASTA;Lazio
+D;SIMIC S;Frosinone
+D;STRINIC;Milan
+D;CHIRICHES;Napoli
+D;LUPERTO;Napoli
+D;BIANDA;Roma
+D;FERRARI A;Sampdoria
+D;LEVERBE;Cagliari
+D;REGINI;SPAL
+D;SIMIC L;SPAL
+D;SERNICOLA;Sassuolo
+D;BREMER;Torino
+D;ADNAN;Atalanta
+D;CESAR;Chievo
+D;SIERRALTA;Parma
+D;NIKOLAOU;Empoli
+D;WILMOT;Udinese
+D;FREY;Chievo
+C;VALENCIA JM;Bologna
+C;PAGANINI;Frosinone
+C;BRUNO JORDAO;Lazio
+C;MURGIA;SPAL
+C;MAURI J;Milan
+C;MONTOLIVO;Milan
+C;DEZI;Parma
+C;CORIC;Roma
+C;RICCARDI;Roma
+C;PEETERS;Sampdoria
+C;STIJEPOVIC;Sampdoria
+C;KATUMA;Udinese
+C;BADU;Udinese
+C;INGELSSON;Udinese
+C;BURRUCHAGA;Chievo
+C;DIAKHATE;Parma
+A;PUCCIARELLI;Chievo
+A;GRAICIAR;Fiorentina
+A;VLAHOVIC;Fiorentina
+A;COLIDIO;Inter
+A;SALCEDO MORA;Inter
+A;PEDRO NETO;Lazio
+A;YOUNES;Napoli
+A;ODGAARD;Sassuolo
+A;SCAMACCA;Sassuolo
+A;DAMASCAN;Torino
+A;MICIN;Udinese
+A;DALMONTE;Genoa

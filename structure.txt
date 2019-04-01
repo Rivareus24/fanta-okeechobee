@@ -1,0 +1,18 @@
+Load FantaokeechobeeY
+    Scores
+
+
+
+Load Quotazioni (servono davvero?)
+
+Read weekNumber
+    direct from file
+    input
+
+Load FantagazzettaVoti
+    alreadyPlayedTeams
+    cleanTable cols rows
+    columns types
+    assists
+    calculateBonus gol assist
+    calculateBonus
